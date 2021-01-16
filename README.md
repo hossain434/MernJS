@@ -1,3 +1,5 @@
+MERNjs is an open-source full-stack JavaScript solution, which provides a solid starting point for MongoDB, Express, React and Node.js based applications. 
+
 Code for MERN tutorial.
 
 Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
